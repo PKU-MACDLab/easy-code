@@ -1,0 +1,9 @@
+crazyflies:
+  - id: 0
+    channel: 80
+    initialPosition: [0.0, 0.0, 0.0]
+    type: CF21SingleMarker
+  - id: 1
+    channel: 80
+    initialPosition: [0.4, 1.0, 0.0]
+    type: CF21SingleMarker
